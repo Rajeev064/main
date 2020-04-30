@@ -53,10 +53,11 @@ background-color:#9966cc;
 }
 
 .contact{
-  background-color: #e0455f;
+   /* background-color: #e0455f;
   background-image: linear-gradient(147deg, #e0455f 0%, #44000b 74%);
+*/
+background-color:#9966cc;
 }
-
 /* FORM STYLES */
 .contact form{
   display: grid;
