@@ -41,8 +41,10 @@ ul{
 }
 
 .company-info{
-  background-color: #e0455f;
+ /* background-color: #e0455f;
   background-image: linear-gradient(147deg, #e0455f 0%, #44000b 74%);
+*/
+background-color:#9966cc;
 }
 
 .company-info h3, .company-info ul{
